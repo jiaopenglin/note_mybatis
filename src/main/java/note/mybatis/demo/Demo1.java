@@ -22,6 +22,7 @@ public class Demo1 {
             System.out.println(s.args());
             System.out.println(s.method());
             System.out.println(s.type());
+            System.out.println(s.type());
 
 
         }
