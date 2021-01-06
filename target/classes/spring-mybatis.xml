@@ -14,7 +14,7 @@
     http://www.springframework.org/schema/aop
      http://www.springframework.org/schema/aop/spring-aop-4.1.xsd"
        default-lazy-init="false">
-    <!-- 自动扫描(自动注入) -->
+    <!-- 自动扫描(自动注入111) -->
     <context:component-scan base-package="note" />
     <!-- 初始化数据 -->
     <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer" >
